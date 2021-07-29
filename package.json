@@ -1,5 +1,5 @@
 {
-  "name": "orm-e-commerce",
+  "name": "E-commerce-ORM",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/orm-e-commerce.git"
+    "url": "git+https://github.com/nalhomsi/E-commerce-ORM.git"
   },
-  "author": "Priya",
+  "author": "Noor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priyaravi23/orm-e-commerce/issues"
+    "url": "https://github.com/nalhomsi/E-commerce-ORMissues"
   },
-  "homepage": "https://github.com/priyaravi23/orm-e-commerce#readme",
+  "homepage": "https://github.com/nalhomsi/E-commerce-ORM#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
